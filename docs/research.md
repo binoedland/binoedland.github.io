@@ -4,6 +4,13 @@ title: Research
 permalink: /research/
 ---
 
+##Machine learning
+
+Preprtins:
+
+-[Measuring global properties of neural generative model outputs via generating mathematical objects](https://arxiv.org/abs/2105.13669).
+
+
 ## Algebraic geometry
 
 My research in algebraic geometry is within the field of toric geometry. It is a subfield were one studies algebraic varieties with a praticular kind of group action by an algebraic torus. Using this group action one establishes links between algebraic geometry and combinatorics, thus enabling one to study algebraic varieties via studying combinatorial objects such as lattice polytopes and rational polyhedral fans.
