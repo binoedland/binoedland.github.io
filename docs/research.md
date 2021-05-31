@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-##Machine learning
+## Machine learning
 
-Preprtins:
+Preprints:
 
 -[Measuring global properties of neural generative model outputs via generating mathematical objects](https://arxiv.org/abs/2105.13669).
 
