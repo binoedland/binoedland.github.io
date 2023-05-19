@@ -8,8 +8,8 @@ permalink: /research/
 
 Published papers:
 
--[Training and Evaluating Norwegian Sentence Embedding Models](https://openreview.net/forum?id=tcxy7vRVKlg) At NoDaLiDa 2023
--[Generating Reflexive Polytopes via Sequence Modeling](https://mathai2022.github.io/papers/3.pdf) At 2nd MATH-AI Workshop at NeurIPS 22
+-[Training and Evaluating Norwegian Sentence Embedding Models](https://openreview.net/forum?id=tcxy7vRVKlg) At NoDaLiDa 2023.
+-[Generating Reflexive Polytopes via Sequence Modeling](https://mathai2022.github.io/papers/3.pdf) At 2nd MATH-AI Workshop at NeurIPS 22.
 
 Preprints:
 
